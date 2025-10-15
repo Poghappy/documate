@@ -12,8 +12,8 @@ dependencies:
     specifier: ^11.0.0
     version: 11.0.0
   detect-package-manager:
-    specifier: ^3.0.1
-    version: 3.0.1
+    specifier: ^3.0.2
+    version: 3.0.2
   execa:
     specifier: ^8.0.1
     version: 8.0.1
@@ -169,8 +169,8 @@ packages:
     engines: {node: '>=0.4.0'}
     dev: false
 
-  /detect-package-manager@3.0.1:
-    resolution: {integrity: sha512-qoHDH6+lMcpJPAScE7+5CYj91W0mxZNXTwZPrCqi1KMk+x+AoQScQ2V1QyqTln1rHU5Haq5fikvOGHv+leKD8A==}
+  /detect-package-manager@3.0.2:
+    resolution: {integrity: sha512-8JFjJHutStYrfWwzfretQoyNGoZVW1Fsrp4JO9spa7h/fBfwgTMEIy4/LBzRDGsxwVPHU0q+T9YvwLDJoOApLQ==}
     engines: {node: '>=12'}
     dependencies:
       execa: 5.1.1
