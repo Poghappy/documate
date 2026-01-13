@@ -9,7 +9,7 @@
     "documate:upload": "documate upload"
   },
   "dependencies": {
-    "rspress": "^0.1.1",
+    "rspress": "^1.3.0",
     "@documate/documate": "^0.1.0",
     "@documate/react": "0.2.0"
   },
